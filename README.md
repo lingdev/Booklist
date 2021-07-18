@@ -11,4 +11,4 @@ RUN PROJECT:
 2.npm start - run project both Frondend and backend
 
 in DB to create a Database Name - bookapp 
-in backend cofig /models.js - inside the file to change migcarate:alter to create database Table ,migcarate : safe to data for safe(not earese)
+in backend cofig /models.js - inside the file to change migrate:alter to create database Table ,migrate : safe to data for safe(not erase)
